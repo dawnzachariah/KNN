@@ -1,1 +1,1 @@
-# knnalgo
+# KNN Algorithm
